@@ -1,10 +1,10 @@
 <h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
 
+<h1 align="center">Emily Mendes da Silva</h1>
+<p align="center"><em>Software Engineering Student • Building with Elegance</em></p>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Emily%20Mendes%20da%20Silva&fontSize=35&fontColor=d4af37&animation=fadeIn&fontAlignY=35"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Emilyms-tech&color=d4af37&style=for-the-badge">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:000000&height=150&section=header&text=&fontColor=d4af37"/>
 </p>
 
 ---
