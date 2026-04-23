@@ -62,11 +62,7 @@
 ### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/Emilyms-tech/Emilyms-tech/blob/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://github.com/Emilyms-tech/Emilyms-tech/blob/output/github-contribution-grid-snake.svg">
 </p>
 
----
 
-<p align="center">
-  <em style="color:#D4AF37;">✧ Elegância está na consistência ✧</em>
-</p>
