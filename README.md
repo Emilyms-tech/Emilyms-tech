@@ -1,9 +1,8 @@
 <h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Emily+Mendes+da+Silva;Software+Engineering+Student;Building+with+Elegance+%26+Logic" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a1a&height=200&section=header&text=Emily%20Mendes%20da%20Silva&fontSize=35&fontColor=d4af37&animation=fadeIn&fontAlignY=35"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emilyms-tech&color=d4af37&style=for-the-badge">
 </p>
