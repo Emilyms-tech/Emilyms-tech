@@ -1,11 +1,15 @@
 <h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:0d0d0d,100:001a14&height=220&section=header&text=Emily%20Mendes%20da%20Silva&fontSize=40&fontColor=d4af37&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:013220&height=160&section=header"/>
 </p>
 
+<h1 align="center">
+  <span style="color:#D4AF37;">Emily Mendes da Silva</span>
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=3000&pause=1200&color=0FA67A&center=true&vCenter=true&width=600&lines=Emily+Mendes+da+Silva;Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=28&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Emily+Mendes+da+Silva;Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web" />
 </p>
 
 ---
