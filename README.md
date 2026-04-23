@@ -1,4 +1,4 @@
-<h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
+<h1 align="center">✧･ﾟ: * Seja Bem vindo(a) ao meu perfil! * :･ﾟ✧</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=013220&height=200&section=header&text=Emily%20Mendes%20da%20Silva&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=45"/>
