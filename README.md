@@ -1,8 +1,11 @@
-<h1 align="center">✧･ﾟ: * Welcome to my profile * :･ﾟ✧</h1>
+<h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
 
 <p align="center">
-  <em>Emily Mendes da Silva</em><br>
-  <sub>Estudante de Engenharia de Software • Explorando tecnologia com elegância</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=28&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Emily+Mendes+da+Silva;Software+Engineering+Student;Building+with+Elegance+%26+Logic" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emilyms-tech&color=d4af37&style=for-the-badge">
 </p>
 
 ---
@@ -15,19 +18,21 @@
 
 ### ✧ Sobre mim
 
-> Apaixonada por tecnologia e aprendizado constante.  
-> Construindo meu caminho na área de desenvolvimento com foco, criatividade e estilo.
+<p align="center">
+  Estudante de Engenharia de Software<br>
+  Buscando evoluir constantemente em desenvolvimento e criatividade.
+</p>
 
 ---
 
 ### ☾ Conecte-se comigo
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/emily-mendes-silva/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=000000">
   </a>
-  <a href="SEU_LINK_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/emilymendes_291/">
+    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d4af37&labelColor=000000">
   </a>
 </p>
 
@@ -44,14 +49,15 @@
 ### ☾ Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Emilyms-tech&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilyms-tech&layout=compact&theme=dark&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Emilyms-tech&show_icons=true&theme=dark&hide_border=true&title_color=d4af37&icon_color=d4af37"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilyms-tech&layout=compact&theme=dark&hide_border=true&title_color=d4af37"/>
 </p>
 
 ---
 
-### ✧ Frase
+### 🐍 Contribuições
 
 <p align="center">
-  <em>"Elegância não está apenas na aparência, mas na forma como construímos o que deixamos no mundo."</em>
+  <img src="https://github.com/Emilyms-tech/Emilyms-tech/blob/output/github-contribution-grid-snake.svg">
 </p>
+
