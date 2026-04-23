@@ -1,7 +1,7 @@
 <h1 align="center">✧･ﾟ: * Welcome * :･ﾟ✧</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:013220&height=160&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:013220&height=180&section=header"/>
 </p>
 
 <h1 align="center">
@@ -9,7 +9,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=28&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Emily+Mendes+da+Silva;Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cormorant+Garamond&size=28&duration=3200&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=Estudante+de+Engenharia+de+Software;Foco+em+Desenvolvimento+Web" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emilyms-tech&color=D4AF37&style=for-the-badge&label=VISITAS">
 </p>
 
 ---
@@ -24,7 +28,7 @@
 
 <p align="center">
   Estudante de Engenharia de Software<br>
-  Buscando evoluir constantemente em desenvolvimento e criatividade.
+  Foco em desenvolvimento web e evolução constante na área de tecnologia.
 </p>
 
 ---
@@ -33,10 +37,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emily-mendes-silva/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=d4af37&labelColor=000000">
+    <img src="https://img.shields.io/badge/LinkedIn-013220?style=for-the-badge&logo=linkedin&logoColor=D4AF37">
   </a>
   <a href="https://www.instagram.com/emilymendes_291/">
-    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=d4af37&labelColor=000000">
+    <img src="https://img.shields.io/badge/Instagram-013220?style=for-the-badge&logo=instagram&logoColor=D4AF37">
   </a>
 </p>
 
@@ -45,7 +49,7 @@
 ### ✧ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
 </p>
 
 ---
@@ -53,8 +57,8 @@
 ### ☾ Estatísticas
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Emilyms-tech&show_icons=true&theme=dark&hide_border=true&title_color=d4af37&icon_color=d4af37"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilyms-tech&layout=compact&theme=dark&hide_border=true&title_color=d4af37"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Emilyms-tech&show_icons=true&theme=dark&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=D4AF37"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emilyms-tech&layout=compact&theme=dark&hide_border=true&title_color=D4AF37&text_color=D4AF37"/>
 </p>
 
 ---
@@ -62,6 +66,11 @@
 ### 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/Emilyms-tech/Emilyms-tech/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Emilyms-tech/Emilyms-tech/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
 
+---
+
+<p align="center">
+  <em style="color:#D4AF37;">✧ Elegância está na consistência ✧</em>
+</p>
